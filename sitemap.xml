@@ -1,17 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://werneburg.ca</loc><lastmod>2018-08-20</lastmod><priority>0.50</priority></url>
-<url><loc>https://werneburg.ca/services</loc><lastmod>2018-08-21</lastmod><priority>0.50</priority></url>
+<urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://werneburg.ca/michael-werneburg</loc><lastmod>2018-08-20</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/resume</loc><lastmod>2018-08-21</lastmod><priority>0.50</priority></url>
 <url><loc>https://werneburg.ca/about</loc><lastmod>2018-08-21</lastmod><priority>0.50</priority></url>
 <url><loc>https://werneburg.ca/case-studies</loc><lastmod>2018-08-21</lastmod><priority>0.50</priority></url>
 <url><loc>https://werneburg.ca/copyright</loc><lastmod>2018-08-21</lastmod><priority>0.50</priority></url>
-<url><loc>https://werneburg.ca/contact</loc><lastmod>2018-08-21</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/tracking-vulnerability-fixes-to-production</loc><lastmod>2018-08-21</lastmod><priority>0.50</priority></url>
 <url><loc>https://werneburg.ca/IT-compliance-at-a-Japanese-bank</loc><lastmod>2018-08-21</lastmod><priority>0.50</priority></url>
 <url><loc>https://werneburg.ca/obtaining-SOC-2-reports-at-a-technology-vendor</loc><lastmod>2018-08-23</lastmod><priority>0.50</priority></url>
 <url><loc>https://werneburg.ca/implementing-PHI-de-identification</loc><lastmod>2018-08-23</lastmod><priority>0.50</priority></url>
 <url><loc>https://werneburg.ca/SDLC-in-a-regulated-environment</loc><lastmod>2018-08-23</lastmod><priority>0.50</priority></url>
 <url><loc>https://werneburg.ca/privacy-statement</loc><lastmod>2018-08-26</lastmod><priority>0.50</priority></url>
 <url><loc>https://werneburg.ca/agile-in-a-regulated-environment</loc><lastmod>2018-09-29</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/fracking-the-human-being</loc><lastmod>2019-10-27</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/evaluating-vendor-cyber-security-readiness</loc><lastmod>2019-07-01</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/articles</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/third-party-risk</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/20-Questions-for-Vendor-Cyber-Security</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/on-strategic-risk-management</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/Peter-Drucker-on-risk</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/risk,-opportunity,-and-the-service-organization</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/why-undertake-an-audit</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/cybersecurity-in-financial-industry-outsourcing</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/what-it-takes-to-pass-a-SOC-2-audit</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/turning-audit-into-an-advantage</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/managing-controls-for-a-SOC-2-audit</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/service-audits-are-risky-business</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/a-strategic-approach-to-the-value-chain</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/on-the-importance-of-executive-support</loc><lastmod>2019-07-06</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/writing-a-risk-manual-for-a-non-profit</loc><lastmod>2019-07-20</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/a-non-profit-risk-management-process-manual</loc><lastmod>2019-07-22</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/fintech-and-information-risk</loc><lastmod>2019-10-27</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/cybersecurity-and-out-running-hikers</loc><lastmod>2019-10-27</lastmod><priority>0.50</priority></url>
+<url><loc>https://werneburg.ca/SOC-2-versus-SIG</loc><lastmod>2019-10-27</lastmod><priority>0.50</priority></url>
 </urlset>

@@ -1,1 +1,1 @@
-Sitemap: http://werneburg.ca/sitemap.xml
+Sitemap: https://werneburg.ca/sitemap.xml
