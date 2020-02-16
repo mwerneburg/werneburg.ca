@@ -1,0 +1,61 @@
+@font-face {
+font-family: 'Merriweather'; font-style: normal; font-weight: 400; src: local('Merriweather Regular'),local('Merriweather-Regular'),url('/fonts/Merriweather_400.woff2') format('woff2'),url('/fonts/Merriweather_400.woff') format('woff'),url('/fonts/Merriweather_400.eot?#iefix') format('embedded-opentype'),url('/fonts/Merriweather_400.svg#Merriweather') format('svg'),url('/fonts/Merriweather_400.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Merriweather'; font-style: italic; font-weight: 400; src: local('Merriweather Italic'),local('Merriweather-Italic'),url('/fonts/Merriweather_400i.woff2') format('woff2'),url('/fonts/Merriweather_400i.woff') format('woff'),url('/fonts/Merriweather_400i.eot?#iefix') format('embedded-opentype'),url('/fonts/Merriweather_400i.svg#Merriweather') format('svg'),url('/fonts/Merriweather_400i.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Merriweather'; font-style: normal; font-weight: 700; src: local('Merriweather Bold'),local('Merriweather-Bold'),url('/fonts/Merriweather_700.woff2') format('woff2'),url('/fonts/Merriweather_700.woff') format('woff'),url('/fonts/Merriweather_700.eot?#iefix') format('embedded-opentype'),url('/fonts/Merriweather_700.svg#Merriweather') format('svg'),url('/fonts/Merriweather_700.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Open Sans'; font-style: normal; font-weight: 300; src: local('Open Sans Light'),local('OpenSans-Light'),url('/fonts/Open_Sans_300.woff2') format('woff2'),url('/fonts/Open_Sans_300.woff') format('woff'),url('/fonts/Open_Sans_300.eot?#iefix') format('embedded-opentype'),url('/fonts/Open_Sans_300.svg#OpenSans') format('svg'),url('/fonts/Open_Sans_300.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: local('Open Sans Regular'),local('OpenSans-Regular'),url('/fonts/Open_Sans_400.woff2') format('woff2'),url('/fonts/Open_Sans_400.woff') format('woff'),url('/fonts/Open_Sans_400.eot?#iefix') format('embedded-opentype'),url('/fonts/Open_Sans_400.svg#OpenSans') format('svg'),url('/fonts/Open_Sans_400.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Sorts Mill Goudy'; font-style: normal; font-weight: 400; src: local('Sorts Mill Goudy Regular'),local('SortsMillGoudy-Regular'),url('/fonts/Sorts_Mill_Goudy_400.woff2') format('woff2'),url('/fonts/Sorts_Mill_Goudy_400.woff') format('woff'),url('/fonts/Sorts_Mill_Goudy_400.eot?#iefix') format('embedded-opentype'),url('/fonts/Sorts_Mill_Goudy_400.svg#SortsMillGoudy') format('svg'),url('/fonts/Sorts_Mill_Goudy_400.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Merriweather Sans';
+font-style: normal;
+font-weight: 300;
+src:
+local('Merriweather Sans Light'),
+local('MerriweatherSans-Light'),
+url('/fonts/Merriweather_Sans_300.woff2') format('woff2'),
+url('/fonts/Merriweather_Sans_300.woff') format('woff'),
+url('/fonts/Merriweather_Sans_300.eot?#iefix') format('embedded-opentype'),
+url('/fonts/Merriweather_Sans_300.svg#MerriweatherSans') format('svg'),
+url('/fonts/Merriweather_Sans_300.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Merriweather Sans';
+font-style: normal;
+font-weight: 400;
+src:
+local('Merriweather Sans'),
+local('MerriweatherSans-Regular'),
+url('/fonts/Merriweather_Sans_400.woff2') format('woff2'),
+url('/fonts/Merriweather_Sans_400.woff') format('woff'),
+url('/fonts/Merriweather_Sans_400.eot?#iefix') format('embedded-opentype'),
+url('/fonts/Merriweather_Sans_400.svg#MerriweatherSans') format('svg'),
+url('/fonts/Merriweather_Sans_400.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Merriweather Sans';
+font-style: normal;
+font-weight: 700;
+src:
+local('Merriweather Sans Bold'),
+local('MerriweatherSans-Bold'),
+url('/fonts/Merriweather_Sans_700.woff2') format('woff2'),
+url('/fonts/Merriweather_Sans_700.woff') format('woff'),
+url('/fonts/Merriweather_Sans_700.eot?#iefix') format('embedded-opentype'),
+url('/fonts/Merriweather_Sans_700.svg#MerriweatherSans') format('svg'),
+url('/fonts/Merriweather_Sans_700.ttf') format('truetype');
+}
+
